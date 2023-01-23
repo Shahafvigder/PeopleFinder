@@ -1,0 +1,2 @@
+export const INCREASE_PAGE_NUM = "INCREASE_PAGE_NUM";
+export const RESET_PAGES = "RESET_PAGES"
